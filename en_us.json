@@ -1,5 +1,34 @@
 {
     "deadism.config.difficulty.normal": "NORMAL",
     "deadism.config.difficulty.hard": "HARD",
-    "deadism.config.difficulty.brutal": "BRUTAL"
+    "deadism.config.difficulty.brutal": "BRUTAL",
+
+    "deadism.mechanics.fatigue": "FATIGUE",
+    "deadism.mechanics.fatigue.description": "Affects your Productivity based on your Actions.",
+    "deadism.mechanics.infection": "INFECTION",
+    "deadism.mechanics.infection.description": "Concentration of the Zombie Virus in your Blood.",
+
+    
+
+    "deadism.traps.rope": "STRONG ROPE",
+    "deadism.traps.rope.description": "Mechanically Join Two Components or Make a TripWire",
+    "deadism.traps.turrets": "TURRET",
+    "deadism.traps.turrets.description": "Shoots at Hostiles within a Range.",
+    "deadism.traps.bear_trap": "BEAR TRAP",
+    "deadism.traps.bear_trap.description": "Repurposed Metal Jaws that Clamp on Zombies (and Players Alike).",
+    "deadism.traps.motor_blade":"MOTOR BLADE",
+    "deadism.traps.motor_blade.description": "Cuts the Zombies from the Waist Down.",
+    "deadism.traps.anvil":"WEIGHTED (WEAPONIZED) ANVIL",
+    "deadism.traps.anvil.description": "A Weighted Surprise.",
+
+
+
+    "deadism.weapons.chainsaw": "CHAINSAW",
+    "deadism.weapons.chainsaw.description": "Cut Trees or Cut Through a Horde, Two in One.",
+    "deadism.weapons.flame_thrower":"FLAME THROWER",
+    "deadism.weapons.flame_thrower.description": "This Thing will keep you Safe, and Hot.",
+    "deadism.weapons.c4":"C4",
+    "deadism.weapons.c4.description": "A Controlled Explosive.",
+    "deadism.weapons.landmine":"LANDMINE",
+    "deadism.weapons.landmine.description": "Step on it for a Blast."
 }
